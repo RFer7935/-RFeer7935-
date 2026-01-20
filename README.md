@@ -11,7 +11,7 @@
 <h3 align="center">Tech Stack & Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,php,laravel,flutter,java,git,linux,arduino&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,php,laravel,flutter,java,arduino&perline=12" />
   </a>
 </div>
 
